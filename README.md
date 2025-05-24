@@ -2,6 +2,4 @@
 
 neso academy is best for VLSI 
 
-digital logic and computer design : mater digital
-
-hardware modelling using verilog : varilog 
+Neso Academy : (https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm )
